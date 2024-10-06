@@ -1,0 +1,83 @@
+[
+  {
+    "firstName": "Sita",
+    "lastName": "kanala",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "sita90@gmail.com",
+    "password": "Sita@9876",
+    "phone": "8236059999",
+    "favoriteDestination": "Bali"
+  },
+  {
+    "firstName": "Siva",
+    "lastName": "Vennapusa",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "ssivaharshitha90@gmail.com",
+    "password": "Ammulu@123",
+    "phone": "08236059999",
+    "favoriteDestination": "Kasi"
+  },
+  {
+    "firstName": "bapi reddy",
+    "lastName": "vennapusa",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "bapireddyvennapusa1@gmail.com",
+    "password": "bapi@123",
+    "phone": "07729866666",
+    "favoriteDestination": "Hyderabad"
+  },
+  {
+    "firstName": "Vasavi",
+    "lastName": "Vennapusa",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "vasavi5@gmailcom",
+    "password": "vasavi@123",
+    "phone": "08137856677",
+    "favoriteDestination": "Benguluru"
+  },
+  {
+    "firstName": "kishore",
+    "lastName": "Vennapusa",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "kishorevennapusa@gmail.com",
+    "password": "kishore@123",
+    "phone": "8790111888",
+    "favoriteDestination": "Goa"
+  },
+  {
+    "firstName": "siva",
+    "lastName": "Kummitha",
+    "location": "guntur,AP",
+    "email": "sivakummitha@gmail.com",
+    "password": "Siva@123",
+    "phone": "09392311456",
+    "favoriteDestination": "Ooty"
+  },
+  {
+    "firstName": "rami reddy",
+    "lastName": "vennapusa",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "ramireddyvennapusa@gmail.com",
+    "password": "Rami@123",
+    "phone": "09703103817",
+    "favoriteDestination": "Ongole"
+  },
+  {
+    "firstName": "menna",
+    "lastName": "vennapusa",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "meena@gmail.com",
+    "password": "Meena@123",
+    "phone": "09392311240",
+    "favoriteDestination": "Goa"
+  },
+  {
+    "firstName": "Sita",
+    "lastName": "Dullam",
+    "location": "Darsi,Andhra Pradesh",
+    "email": "sita@gmail.com",
+    "password": "sita@123",
+    "phone": "9392311241",
+    "favoriteDestination": "Bali"
+  }
+]

@@ -1,0 +1,37 @@
+extends userLayout 
+
+block content-head 
+    title User Dashboard - India Tourism
+    link(href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap", rel="stylesheet")
+    link(href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css", rel="stylesheet")
+    link(rel="stylesheet" href="/assets/css/dashboard.css")
+
+block content-body
+    main.main-content
+      .profile-section
+        .profile-header
+          img(src="/assets/img/profile-placeholder.png", alt="User Profile", class="profile-pic")
+          .profile-info
+            h1#userName Alpha
+            p#userTitle Travel Enthusiast
+        .profile-details
+          .detail-item
+            h3 Email
+            p#userEmail alpha@gmail.com
+          .detail-item
+            h3 Phone
+            p#userPhone 8236059999
+          .detail-item
+            h3 Location
+            p#userLocation Darsi
+          .detail-item
+            h3 Member Since
+            p#userMemberSince 2024
+          .detail-item
+            h3 Trips Planned
+            p#userTrips 2
+          .detail-item
+            h3 Favorite Destination
+            p#userFavoriteDestination Kasi
+
+    script(src="/assets/js/dashboard.js")
